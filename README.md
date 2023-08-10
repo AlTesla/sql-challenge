@@ -5,9 +5,20 @@ This scripts also include the queries.
 ## Table of contents
 * sql-challenge
   * EmployeeSQL
+    * date_setup.sql
+    * employees
     * employeesERD.png
     * queries.sql
     * schemata.sql
+  * outputs
+    * 1st_query
+    * 2st_query
+    * 3st_query
+    * 4st_query
+    * 5st_query
+    * 6st_query
+    * 7st_query
+    * 8st_query  
   * README.md
 ## Installation Instructions
 This scripts needs to be run on postgre database. You need to ensure that you import to your database table the csv files.
