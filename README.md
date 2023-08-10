@@ -8,6 +8,7 @@ This scripts also include the queries.
     * employeesERD.png
     * queries.sql
     * schemata.sql
+  * README.md
 ## Installation Instructions
 This scripts needs to be run on postgre database. You need to ensure that you import to your database table the csv files.
 These csv files are provided by the data analytics bootcamp.
