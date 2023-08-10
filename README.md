@@ -1,7 +1,10 @@
 # sql-challenge
 This repository contains the  data analytics bootcamp sql assignment. This challenge is about employees data base. 
 Into it you canf find tables for departments, department manager, department employees, employees, titles and salaries.
-This scripts also include the queries.
+This scripts also include the queries. Some relationships type are not explicit in the code but we type the code to 
+do this relationships implicit. 
+### ERD
+![Employee database ERD](https://github.com/AlTesla/sql-challenge/blob/main/EmployeeSQL/employeesERD.png?raw=true)
 ## Table of contents
 * sql-challenge
   * EmployeeSQL
